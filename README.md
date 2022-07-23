@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @canhlong18
 - 👀 I’m interested in Data science, ML, AI, IoTs ..
-- 🌱 I’m currently learning Industrial Imformatic at VietNam
+- 🌱 I’m currently learning Industrial Informatics at VietNam
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
